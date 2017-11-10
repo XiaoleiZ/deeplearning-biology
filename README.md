@@ -24,6 +24,8 @@ You might also want to refer to the [awesome deepbio](https://github.com/gokcene
 
 These are not implementations as such, but contain useful pointers.
 
+**An introduction to deep learning on biological sequence data: examples and solutions** [[Bioinformatics](https://academic.oup.com/bioinformatics/article/33/22/3685/4092933)] 
+
 **Opportunities And Obstacles For Deep Learning In Biology And Medicine** [[bioRxiv preprint](http://biorxiv.org/content/early/2017/05/28/142760)]
 
 This impressive collaborative review was written completely in the open on [Github](https://github.com/greenelab/deep-review). It is focused on discussing how deep learning may be able to transform patient classification and treatment as well as fundamental biological research in the future, and what the main obstacles are that could prevent it from happening. A lot of interesting points are brought up here. Together with the review listed below, which has a more technical slant, you will get a good overview of how deep learning is used and can be used in biology and medicine.
